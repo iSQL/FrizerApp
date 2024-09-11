@@ -1,0 +1,6 @@
+@FrizerApp.API_HostAddress = http://localhost:5090
+
+GET {{FrizerApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
